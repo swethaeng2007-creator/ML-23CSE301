@@ -1,0 +1,21 @@
+Word_Frequency,Message_Length,Spam
+85,220,Spam
+90,250,Spam
+70,200,Spam
+65,180,Spam
+20,80,Not Spam
+15,60,Not Spam
+25,100,Not Spam
+30,120,Not Spam
+95,260,Spam
+80,210,Spam
+18,70,Not Spam
+22,90,Not Spam
+75,190,Spam
+28,110,Not Spam
+88,230,Spam
+35,130,Not Spam
+60,170,Spam
+12,50,Not Spam
+55,160,Spam
+10,40,Not Spam

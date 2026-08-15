@@ -1,0 +1,15 @@
+Weather,Temperature,Humidity,Windy,Decision
+Sunny,Hot,High,No,Go Out
+Sunny,Hot,High,Yes,Go Out
+Overcast,Hot,High,No,Go Out
+Rain,Mild,High,No,Go Out
+Rain,Cool,Normal,No,Go Out
+Rain,Cool,Normal,Yes,Stay In
+Overcast,Cool,Normal,Yes,Go Out
+Sunny,Mild,High,No,Stay In
+Sunny,Cool,Normal,No,Go Out
+Rain,Mild,Normal,No,Go Out
+Sunny,Mild,Normal,Yes,Go Out
+Overcast,Mild,High,Yes,Go Out
+Overcast,Hot,Normal,No,Go Out
+Rain,Mild,High,Yes,Stay In
